@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7a1813e4-8b5b-4d4c-8a58-922725c1f238" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 8.2.8" />
+  <component name="ProjectId" id="1rl2BzROggXtY6gy0w5XPmsJHop" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/User/Documents/ProjectsBoopIt/CantinhoDaRoupa",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Documents\ProjectsBoopIt\QuintinhadaBe\assinatura" />
+      <recent name="C:\Users\User\Documents\ProjectsBoopIt\QuintinhadaBe\assets\img\new" />
+      <recent name="C:\Users\User\Documents\ProjectsBoopIt\QuintinhadaBe\assets\img" />
+      <recent name="C:\Users\User\Documents\ProjectsBoopIt\CantinhoDaRoupa\js" />
+      <recent name="C:\Users\User\Documents\ProjectsBoopIt\CantinhoDaRoupa\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Documents\ProjectsBoopIt\MediavalSeguros\assets\img" />
+      <recent name="C:\Users\User\Documents\ProjectsBoopIt\QuintinhadaBe\assets\img\new" />
+      <recent name="C:\Users\User\Documents\ProjectsBoopIt\QuintinhadaBe\assets\img" />
+      <recent name="C:\Users\User\Documents\ProjectsBoopIt\CantinhoDaRoupa\assets\img" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a1813e4-8b5b-4d4c-8a58-922725c1f238" name="Default Changelist" comment="" />
+      <created>1619536223913</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619536223913</updated>
+      <workItem from="1619536225259" duration="92000" />
+      <workItem from="1640025257251" duration="8000" />
+      <workItem from="1691492821181" duration="7157000" />
+      <workItem from="1702287198176" duration="3723000" />
+      <workItem from="1702319361738" duration="533000" />
+      <workItem from="1702374776369" duration="2750000" />
+      <workItem from="1702381513489" duration="23000" />
+      <workItem from="1702572849418" duration="621000" />
+      <workItem from="1709570990696" duration="4279000" />
+      <workItem from="1709630367196" duration="13992000" />
+      <workItem from="1709679527058" duration="22000" />
+      <workItem from="1709717188011" duration="133000" />
+      <workItem from="1709908818243" duration="2322000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
